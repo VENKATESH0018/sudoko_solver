@@ -1,4 +1,4 @@
-Sudoku Solver
+# Sudoku Solver
 A Java-based Sudoku Solver that uses backtracking to solve 9x9 Sudoku puzzles efficiently. This project showcases problem-solving techniques like recursion and constraint satisfaction.
 
 Features
